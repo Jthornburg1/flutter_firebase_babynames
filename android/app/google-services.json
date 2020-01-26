@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27967685127",
+    "firebase_url": "https://baby-names-tutorial-db-99b39.firebaseio.com",
+    "project_id": "baby-names-tutorial-db-99b39",
+    "storage_bucket": "baby-names-tutorial-db-99b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27967685127:android:586308ce27bdb1a99520a2",
+        "android_client_info": {
+          "package_name": "com.example.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27967685127-9lqlf734fl2hqogkcu7co4h3k14qpni8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8YmGMZMAK27p2dO7USfBvV6ADHFj7T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27967685127-9lqlf734fl2hqogkcu7co4h3k14qpni8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27967685127-uegell1sargo63g687hq4gfjbbjq6iqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.babyNames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
